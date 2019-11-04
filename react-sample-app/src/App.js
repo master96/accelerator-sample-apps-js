@@ -7,7 +7,7 @@ import AccCore from 'opentok-accelerator-core';
 import 'opentok-solutions-css';
 
 import logo from './logo.svg';
-import config from './config.json';
+import config from './config';
 import './App.css';
 
 let otCore;
